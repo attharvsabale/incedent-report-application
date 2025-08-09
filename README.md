@@ -1,10 +1,15 @@
 <div align="center">
+
+<h1>**Note:** : I watched the YouTube channel Albert Mends and built this project to learn.</h1>
+
+
   <br />
     <a href="your-demo-video-link" target="_blank">
       <img src="./public/report.jpg" alt="Project Banner">
     </a>
   
   <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
